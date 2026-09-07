@@ -15,15 +15,31 @@ export interface Skill {
 }
 
 export const profile = {
-  name: "Your Name", // TODO: replace
-  role: "Data & AI Developer",
+  name: "Deepika Pede", // TODO: replace
+  role: "Senior  Associate - Data  Science",
   tagline:
-    "I build applications that turn raw data into decisions — from AI-powered interfaces to the pipelines that feed them.",
-  email: "you@example.com", // TODO: replace
-  github: "https://github.com/yourusername", // TODO: replace
-  linkedin: "https://linkedin.com/in/yourusername", // TODO: replace
+    "I build end-to-end AI and data solutions that transform complex information into actionable intelligence, scalable applications, and measurable business impact",
+  email: "pededeepika@gmail.com", // TODO: replace
+  github: "https://github.com/DeepikaPede", // TODO: replace
+
   about:
-    "I'm a developer focused on the intersection of data engineering and applied AI. I like building things end to end — from a clean data model, through an API, to an interface people actually enjoy using. This site itself was built as part of a hands-on AI-assisted development course; the projects below are being built out as I complete each one.",
+    "I am a Senior Associate [Data Science]  professional with 3+ years of experience building end-to-end AI solutions that transform complex data into actionable intelligence and business value.
+
+🔹 Core Expertise
+Generative AI & LLMs: LLMs, Prompt Engineering, Fine-Tuning, LoRA/QLoRA
+AI Applications: RAG, AI Agents, Agentic AI, Conversational AI
+Frameworks: LangChain, LangGraph, Hugging Face Transformers
+Cloud & AI Platforms: Microsoft Azure AI, Azure AI Search, AWS Bedrock
+Data & Retrieval: Vector Databases, Qdrant, Pinecone, ChromaDB
+Development: Python, FastAPI, REST APIs, Docker
+AI Architecture: Multi-Agent Systems, Workflow Orchestration, Model Routing
+🚀 What I Do
+
+I specialize in designing and developing production-ready AI applications, from building scalable data and document-processing pipelines to integrating LLMs, retrieval systems, and intelligent agents. I focus on creating solutions that are scalable, reliable, and aligned with real-world business requirements.
+
+🎯 My Focus
+
+Building intelligent AI and data solutions that connect information, automation, and decision-making to create measurable business impact.",
 };
 
 // TODO: Replace with your real projects as you build and deploy them.
