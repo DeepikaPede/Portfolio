@@ -24,12 +24,7 @@ export function Contact() {
           >
             GitHub
           </a>
-          <a
-            href={profile.linkedin}
-            className="rounded-sm border border-border px-6 py-3 text-sm font-medium text-text transition-colors hover:border-muted"
-          >
-            LinkedIn
-          </a>
+          
         </div>
       </div>
     </section>
