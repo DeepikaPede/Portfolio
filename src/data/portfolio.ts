@@ -68,7 +68,7 @@ export const skills: Skill[] = [
   { name: "Langchain", category: "Framework" },
   { name: "Langgraph", category: "Framework" },
   { name: "FastAPI", category: "Framework" },
-  { name: "Docker", category: "Frameework" },
+  { name: "Docker", category: "Framework" },
   { name: "Pandas", category: "Data" },
   { name: "Recharts", category: "Data" },
   { name: "Claude API", category: "Tool" },
