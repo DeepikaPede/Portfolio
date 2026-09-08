@@ -21,7 +21,6 @@ export const profile = {
     "I build end-to-end AI and data solutions that transform complex information into actionable intelligence, scalable applications, and measurable business impact",
   email: "pededeepika@gmail.com", // TODO: replace
   github: "https://github.com/DeepikaPede", // TODO: replace
-
   about:
     "I am a Senior Associate [Data Science]  professional with 3+ years of experience building end-to-end AI solutions that transform complex data into actionable intelligence and business value.Building intelligent AI and data solutions that connect information, automation, and decision-making to create measurable business impact.",
 };
@@ -73,6 +72,6 @@ export const skills: Skill[] = [
   { name: "Pandas", category: "Data" },
   { name: "Recharts", category: "Data" },
   { name: "Claude API", category: "Tool" },
-  { name: "Git", category: "Tool" },
+  { name: "Github", category: "Tool" },
   { name: "Vercel", category: "Tool" },
 ];
