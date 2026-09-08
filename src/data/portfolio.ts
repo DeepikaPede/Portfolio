@@ -23,23 +23,7 @@ export const profile = {
   github: "https://github.com/DeepikaPede", // TODO: replace
 
   about:
-    "I am a Senior Associate [Data Science]  professional with 3+ years of experience building end-to-end AI solutions that transform complex data into actionable intelligence and business value.
-
-🔹 Core Expertise
-Generative AI & LLMs: LLMs, Prompt Engineering, Fine-Tuning, LoRA/QLoRA
-AI Applications: RAG, AI Agents, Agentic AI, Conversational AI
-Frameworks: LangChain, LangGraph, Hugging Face Transformers
-Cloud & AI Platforms: Microsoft Azure AI, Azure AI Search, AWS Bedrock
-Data & Retrieval: Vector Databases, Qdrant, Pinecone, ChromaDB
-Development: Python, FastAPI, REST APIs, Docker
-AI Architecture: Multi-Agent Systems, Workflow Orchestration, Model Routing
-🚀 What I Do
-
-I specialize in designing and developing production-ready AI applications, from building scalable data and document-processing pipelines to integrating LLMs, retrieval systems, and intelligent agents. I focus on creating solutions that are scalable, reliable, and aligned with real-world business requirements.
-
-🎯 My Focus
-
-Building intelligent AI and data solutions that connect information, automation, and decision-making to create measurable business impact.",
+    "I am a Senior Associate [Data Science]  professional with 3+ years of experience building end-to-end AI solutions that transform complex data into actionable intelligence and business value.Building intelligent AI and data solutions that connect information, automation, and decision-making to create measurable business impact.",
 };
 
 // TODO: Replace with your real projects as you build and deploy them.
@@ -80,12 +64,12 @@ export const projects: Project[] = [
 
 export const skills: Skill[] = [
   { name: "Python", category: "Language" },
-  { name: "TypeScript", category: "Language" },
+  { name: "MongoDB", category: "Language" },
   { name: "SQL", category: "Language" },
-  { name: "React", category: "Framework" },
-  { name: "Node.js", category: "Framework" },
+  { name: "Langchain", category: "Framework" },
+  { name: "Langgraph", category: "Framework" },
   { name: "FastAPI", category: "Framework" },
-  { name: "PostgreSQL", category: "Data" },
+  { name: "Docker", category: "Frameework" },
   { name: "Pandas", category: "Data" },
   { name: "Recharts", category: "Data" },
   { name: "Claude API", category: "Tool" },
